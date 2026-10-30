@@ -74,24 +74,24 @@ Objetivo: [tirar uma ideia do papel].
 
 ## Minha entrega
 
-Troque cada texto em itálico pela sua resposta. Envie também um print do DIO Agent respondendo, em **Add file**, **Upload files**.
+Edite este README pelo lápis, role até aqui e cole (Ctrl+V) um print de cada passo, sem dados pessoais.
 
-### Harness
+### Configure
 
-_Qual você escolheu e por quê._
+_Cole o print do DIO Agent se apresentando._
 
 ### Estudar
 
-_O que você aprendeu._
+_Cole o print da explicação._
 
 ### Praticar
 
-_Como você destravou._
+_Cole o print da dica que destravou você._
 
 ### Planejar
 
-_Cole aqui o seu plano de estudos._
+_Cole o print do seu plano de estudos._
 
-### Próximo passo
+### Como foi para você
 
-_O que vem depois deste Desafio._
+_Conte em poucas linhas como foi usar o DIO Agent pela primeira vez._
