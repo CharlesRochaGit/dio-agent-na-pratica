@@ -79,19 +79,24 @@ Edite este README pelo lápis, role até aqui e cole (Ctrl+V) um print de cada p
 ### Configure
 
 _Cole o print do DIO Agent se apresentando._
+<img width="1366" height="729" alt="Capturar111111" src="https://github.com/user-attachments/assets/83330fa8-dde1-440c-b5aa-5d44365cf5eb" />
 
 ### Estudar
 
 _Cole o print da explicação._
+<img width="1366" height="729" alt="Capturar1111111" src="https://github.com/user-attachments/assets/7139e07f-0794-41f8-bf9f-99793df346bf" />
 
 ### Praticar
 
 _Cole o print da dica que destravou você._
+<img width="1366" height="729" alt="Capturar22222" src="https://github.com/user-attachments/assets/3fb66524-7d72-41c3-a764-0a02dfed09e4" />
 
 ### Planejar
 
 _Cole o print do seu plano de estudos._
+<img width="1366" height="729" alt="Capturar33333" src="https://github.com/user-attachments/assets/7deaba23-2350-4bd3-a847-3cddd5e710de" />
 
 ### Como foi para você
 
 _Conte em poucas linhas como foi usar o DIO Agent pela primeira vez._
+"É um pouco desafiador no começo configurar tudo, mas consegui fazer todos os exercícios. Já tenho uma experiência com o ChatGPT, mas nada com agentes assim. Achei bacana praticar, pois só assim a gente aprende, né? Fico feliz em poder completar esse exercício. :)"
