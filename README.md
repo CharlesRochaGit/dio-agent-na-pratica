@@ -79,6 +79,8 @@ Edite este README pelo lápis, role até aqui e cole (Ctrl+V) um print de cada p
 ### Configure
 
 _Cole o print do DIO Agent se apresentando._
+<img width="1366" height="729" alt="Captura222" src="https://github.com/user-attachments/assets/10956d4a-fc77-45a4-b2ed-ce62b960ab44" />
+
 
 ### Estudar
 
